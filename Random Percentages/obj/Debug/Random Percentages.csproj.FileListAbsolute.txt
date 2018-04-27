@@ -1,0 +1,6 @@
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\bin\Debug\Random Percentages.exe.config
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\bin\Debug\Random Percentages.exe
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\bin\Debug\Random Percentages.pdb
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\obj\Debug\Random Percentages.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\obj\Debug\Random Percentages.exe
+C:\Users\Nicholas Gorden\Documents\GitHub\Random Percentages\Random Percentages\obj\Debug\Random Percentages.pdb
